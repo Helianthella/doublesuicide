@@ -1,6 +1,9 @@
 # DoubleSuicide fish prompt
 [![Build Status](https://semaphoreci.com/api/v1/helianthella/doublesuicide/branches/master/badge.svg)](https://semaphoreci.com/helianthella/doublesuicide)
 
+## Deprecation notice
+I no longer use fish (switched to zsh) and will not maintain this prompt anymore. Please see [seppuku](https://github.com/Helianthella/seppuku) for an equivalent zsh prompt.
+
 ## Custom prompt for [fish](https://fishshell.com), inspired by [robbyrussell](https://github.com/oh-my-fish/theme-robbyrussell)
 * Clean
 * Lean
